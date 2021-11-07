@@ -1,6 +1,6 @@
 # artificial intelligence projects
 
-A collection of ai projects that I worked on from UC Berkeley's ai (cs 188) course taught by Pieter Abbeel and Anca Dragan. Each project is an implementation of various algorithms that will be used by a pacman agent to complete its objective.
+A collection of ai projects that I worked on from UC Berkeley's ai (cs 188) course taught by Pieter Abbeel and Anca Dragan. Each project is an implementation of various algorithms that will be used by a pacman agent to complete its objective (and maximize expected utility).
 
 Project 1 (Search): depth first search, breadth first search, uniform cost search, A* Search, heuristics. <br>
 Project 2 (Games): reflext agent, minimax, alpha-beta pruning, expectimax, evaluation functions. <br>
