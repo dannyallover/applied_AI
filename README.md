@@ -1,4 +1,4 @@
-# AI
+# artificial intelligence projects
 
 A collection of AI projects that I developed from UC Berkeley's Artificial Intelligence course taught (cs 188) by Pieter Abbeel and Anca Dragan.
 
