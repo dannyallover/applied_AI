@@ -1,6 +1,6 @@
 # artificial intelligence projects
 
-A collection of ai projects that worked on from UC Berkeley's ai (cs 188) course taught by Pieter Abbeel and Anca Dragan.
+A collection of ai projects that I worked on from UC Berkeley's ai (cs 188) course taught by Pieter Abbeel and Anca Dragan.
 
 Project 1 (Search): depth first search, breadth first search, uniform cost search, A* Search, heuristics. <br>
 Project 2 (Games): reflext agent, minimax, alpha-beta pruning, expectimax, evaluation functions. <br>
