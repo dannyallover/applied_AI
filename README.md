@@ -6,4 +6,4 @@ Project 1 (**Search**): depth first search, breadth first search, uniform cost s
 Project 2 (**Games**): reflext agent, minimax, alpha-beta pruning, expectimax, evaluation functions. <br>
 Project 3 (**RL**): value iteration, policies, asynchronous value iteration, prioritized sweeping value iteration, q-learning, epsilon greedy, approximate q-learning. <br>
 Project 4 (**Probability**): <br>
-Project 4 (**ML**): <br>
+Project 5 (**ML**): <br>
